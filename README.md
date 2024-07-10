@@ -1,7 +1,7 @@
 to insert data in database and file uploading
 
 
-<?php 
+<?php asa
 require_once('../config.php');
 
 if(isset($_POST['Submit'])){
